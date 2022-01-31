@@ -9,6 +9,7 @@ We will also learn to use a few image manipulations like:
 - Translate
 <br>
 Once we have an idea of the basic image manipulations, we can build complex OCR solutions. In this repository, we will touch upon two cases:<br>
+
 - Identifying Instagram story views from a screenshot
 - Identifying IMBD reviews from IMDB web screenshot
 <br>
